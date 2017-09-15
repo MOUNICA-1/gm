@@ -1,0 +1,11 @@
+import java.lang.*;
+class M
+{
+Public Static Void Main(String args[])
+{
+System.Out.Println("hello world");
+}
+}
+
+
+
